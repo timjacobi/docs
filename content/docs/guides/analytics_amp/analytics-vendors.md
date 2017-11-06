@@ -102,6 +102,12 @@ Type attribute value: `euleriananalytics`
 
 Adds support for Eulerian Technologies Analytics. Requires defining *var* `analyticsHost` with Eulerian delegated domain. More details can be found at [eulerian.wiki](https://eulerian.wiki).
 
+### Facebook Pixel
+
+Type attribute value: `facebookpixel`
+
+Adds support for Facebook Pixel. Requires defining *var* `pixelId` with Facebook Pixel ID. More details can be found at [developers.facebook.com](https://developers.facebook.com/docs/facebook-pixel/).
+
 ### Gemius
 
 Type attribute value: `gemius`
